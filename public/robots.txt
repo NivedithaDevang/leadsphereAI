@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /
+Disallow: /dashboard
+Disallow: /search
+Disallow: /saved
+Disallow: /analytics
+Disallow: /settings
+Disallow: /company/
+
+Sitemap: /sitemap.xml
